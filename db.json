@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "pseudo": "From Scratch",
+      "age": 25,
+      "id": 1
+    },
+    {
+      "pseudo": "From Scratch",
+      "age": 25,
+      "id": 2
+    }
+  ]
+}
